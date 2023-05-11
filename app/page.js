@@ -1,3 +1,5 @@
+/* COM useEffect */
+
 // 'use client'
 // import styles from './page.module.css'
 // import { useCallback, useEffect, useState } from 'react'
@@ -33,7 +35,7 @@
 
 //-------------------------------------//
 
-//usando o tanStack query (useQuery);
+/* COM o tanStack query (useQuery) */
 'use client'
 import styles from './page.module.css'
 import axios from 'axios';
